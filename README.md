@@ -6,7 +6,7 @@ Password Encryptor Small library for PHP Website
 
 You can install by using command
 
-composer require litto/passwordcrypto
+composer require litto/passwordencryptor:v1.0
 
 ## How to Use?
 
